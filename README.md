@@ -3,7 +3,7 @@
 ### ⭐ Fork & Star the Repository
 Fork this repo and give it a ⭐ to support Malvin King!
 
-[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/paka235/Test-repo-/fork)
+[![Fork Repo](https://img.shields.io/badge/Github-Fork%20Repo-red?style=for-the-badge&logo=Github)](https://github.com/DEVIL-TECH-DATABASE/DEVIL-TECH-MD/fork)
 
 ---
 
@@ -21,6 +21,6 @@ Fork this repo and give it a ⭐ to support Malvin King!
 - [Sign up](https://signup.heroku.com/)
 - Deploy directly:
 
-[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/paka235/Test-repo-)
+[![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/DEVIL-TECH-DATABASE/DEVIL-TECH-MD)
 
 __
