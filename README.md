@@ -24,3 +24,5 @@ Fork this repo and give it a ⭐ to support Malvin King!
 [![Deploy on Heroku](https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white)](https://dashboard.heroku.com/new?template=https://github.com/DEVIL-TECH-DATABASE/DEVIL-TECH-MD)
 
 __
+
+𝐃ᴇᴠɪʟ-𝐓ᴇᴄʜ-𝐌ᴅ=zxYGDaSY#j6hamLN1lT4WY-_DXzlUedr0mheLsB1x0NtzVUQpWWI
